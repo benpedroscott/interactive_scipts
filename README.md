@@ -1,2 +1,2 @@
 # interactive_scipts
-I made this create links to JavaScript files to reference in web sites for class I TA for.
+I made this to create links to JavaScript files that are referenced in websites for class I TA for.
